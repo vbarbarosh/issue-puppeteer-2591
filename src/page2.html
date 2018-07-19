@@ -1,0 +1,6 @@
+<iframe src="page1.html"></iframe>
+<script type="text/javascript">
+document.querySelector('iframe').addEventListener('load', function (event) {
+    event.target.contentWindow.postMessage('hello', '*');
+});
+</script>

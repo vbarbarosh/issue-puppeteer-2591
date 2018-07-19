@@ -1,0 +1,9 @@
+{
+  "author": "Vladimir Barbarosh",
+  "dependencies": {
+    "express": "^4.16.3",
+    "json-stringify-safe": "^5.0.1",
+    "puppeteer": "^1.6.0"
+  },
+  "main": "src/index.js"
+}
