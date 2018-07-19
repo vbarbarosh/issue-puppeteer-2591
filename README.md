@@ -1,4 +1,4 @@
-A little project to reproduce issue [https://github.com/GoogleChrome/puppeteer/issues/2591](#2591 at puppeteer) 
+A little project to reproduce issue [#2591 at puppeteer](https://github.com/GoogleChrome/puppeteer/issues/2591) 
 
 ## Run
 
